@@ -9,7 +9,7 @@ android {
 
     defaultConfig {
         applicationId = "com.example.firebase_seg2105"
-        minSdk = 16
+        minSdk = 33
         targetSdk = 33
         versionCode = 1
         versionName = "1.0"
